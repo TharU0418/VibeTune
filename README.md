@@ -1,5 +1,5 @@
 # VibeTune
-VibeTune is a music and movie recommender based on the mood
+VibeTune is a music and movie recommender based on the mood || STILL DEVELOPING 🖱️⌨️
 
 Insead of find your emotion based on your face using the web cam. Here we are find your mood based on sentiment analysis. Just need to tell how you feel write now on to system. It will recommend a song to fix your mood or vibe with that mood. 😄💜
 
